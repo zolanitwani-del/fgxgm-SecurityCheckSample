@@ -1,4 +1,4 @@
-FROM node:25.3.0-alpine3.23
+FROM node:25.6.0-alpine3.23
 
 RUN npm install -g npm@9.1.3
 
